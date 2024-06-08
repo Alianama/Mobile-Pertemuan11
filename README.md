@@ -232,7 +232,7 @@ Selamat datang di proyek Aplikasi Kas RT! Aplikasi ini dirancang untuk mempermud
 
 ## 🎥 Demo Video
 
-[Lihat demo video di YouTube](https://youtube.com/your-video-link) 📹
+[Lihat demo video di YouTube](https://www.youtube.com/@AnamaaChannel) 📹
 
 ## 🤝 Kontribusi
 
@@ -244,14 +244,5 @@ Kontribusi sangat diterima! Silakan fork repositori ini dan ajukan pull request 
 4. Push ke branch (`git push origin fitur-baru`)
 5. Buat Pull Request
 
-## 📄 Lisensi
 
-Proyek ini dilisensikan di bawah lisensi MIT - lihat file [LICENSE](LICENSE) untuk detail lebih lanjut.
-
-## 📞 Kontak
-
-Untuk informasi lebih lanjut, silakan hubungi kami di [email@example.com](mailto:email@example.com).
-
----
-
-Terima kasih telah menggunakan Aplikasi Kas RT! Semoga aplikasi ini bermanfaat untuk Anda dan lingkungan sekitar. 🌟
+Terima kasih 🌟
