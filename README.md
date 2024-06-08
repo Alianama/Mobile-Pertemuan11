@@ -50,8 +50,7 @@ Selamat datang di proyek Aplikasi Kas RT! Aplikasi ini dirancang untuk mempermud
 
 2. **Clone Repositori**:
     ```bash
-    git clone https://github.com/username/kas-rt-android.git
-    cd kas-rt-android
+    git clone https://github.com/username/Mobile-Pertemuan11.git
     ```
 
 3. **Tambahkan Dependensi untuk HTTP Requests dan Firebase**:
